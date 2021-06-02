@@ -1,6 +1,6 @@
 <img align="right" width="400" height="400" src="https://github.com/sabinonatalia/sabinonatalia/blob/main/image_processing20200401-31608-jtqgjr.gif">
 
-# Seja bem vindo(a) ao meu repositório GitHub!
+# Seja bem-vinde ao meu repositório GitHub!
 
 ## Prazer, Natália (❁´◡`❁)
  
@@ -8,9 +8,9 @@
   - Graduanda em Ciências Humanas pela UFABC 📚 <br />
   - Futura desenvolvedora Java Full Stack pela Generation Brasil 👩🏿‍💻
 
-Aqui você irá encontrar alguns projetos que concluí e alguns exercícios desenvolvidos durante meu curso de desenvolvimento web.
+Aqui você irá encontrar alguns projetos que concluí e alguns exercícios desenvolvidos durante meu curso de desenvolvimento web Java.
 __________________________________________________________________________________________________________________________________________
-## 🚀💻 Linguagens e Ferramentas que uso 💻:
+## Linguagens e Ferramentas que uso 🚀💻:
 
 
 ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -36,3 +36,6 @@ ________________________________________________________________________________
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
