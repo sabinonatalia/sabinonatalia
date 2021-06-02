@@ -5,8 +5,8 @@
 ## Prazer, Natália (❁´◡`❁)
  
  <p>
-  - Graduanda em Ciências Humanas pela UFABC 📚.<br />
-  - Futura desenvolvedora Java Full Stack pela Generation Brasil 👩🏿‍💻.
+  - Graduanda em Ciências Humanas pela UFABC 📚 <br />
+  - Futura desenvolvedora Java Full Stack pela Generation Brasil 👩🏿‍💻
 
 Aqui você irá encontrar alguns projetos que concluí e alguns exercícios desenvolvidos durante meu curso de desenvolvimento web.
 __________________________________________________________________________________________________________________________________________
