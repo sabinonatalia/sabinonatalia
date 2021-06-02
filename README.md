@@ -12,6 +12,7 @@ Aqui você irá encontrar alguns projetos que concluí e alguns exercícios dese
 __________________________________________________________________________________________________________________________________________
 ## 🚀💻 Linguagens e Ferramentas que uso 💻:
 
+
 ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![image](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
