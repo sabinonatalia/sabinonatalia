@@ -1,7 +1,6 @@
 <img align="right" width="400" height="450" src="https://github.com/sabinonatalia/sabinonatalia/blob/main/image_processing20200401-31608-jtqgjr.gif">
 
 # Seja bem-vinde ao meu pefil GitHub!
-
 ## Prazer, Natália (❁´◡`❁)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=open+sans&color=DE21AA&center=falso&vCenter=falso&lines=Desenvolvedora+Full+Stack+Jr;Focando+os+estudos+em+Java+e+Angular;Cursando+Ci%C3%AAncias+Humanas+pela+UFABC)](https://git.io/typing-svg)
 
