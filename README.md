@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=open+sans&color=DE21AA&center=falso&vCenter=falso&lines=Desenvolvedora+Full+Stack+Jr;Focando+os+estudos+em+Java+e+Angular;Cursando+Ci%C3%AAncias+Humanas+pela+UFABC)](https://git.io/typing-svg)
 
 ### Sobre mim
-- 💻 Em transição de carreira para área de tecnologia 
+- 💻 Em migração de carreira para área de tecnologia 
 - 👩🏿‍💻 Desenvolvedora Java Full Stack Jr formada pela Generation Brasil 
 - 🎯 Interesse: Java, Spring Boot, Angular, HTML, CSS, JavaScript, NodeJs, Azure
 
