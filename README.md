@@ -32,7 +32,7 @@ ________________________________________________________________________________
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabinonatalia&show_icons=true&theme=highcontrast)</p>
 
 __________________________________________________________________________________________________________________________________________
-## Onde me encontrar 😊
+## Onde me encontrar 😊:
 <p align="center">
 
   <a href="https://www.linkedin.com/in/natalia-sabino/">
