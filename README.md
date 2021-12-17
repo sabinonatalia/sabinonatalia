@@ -6,7 +6,7 @@
 
 
 ### 🎯 Interesse:
--  Java, Spring Boot, Angular, HTML, CSS, JavaScript, NodeJs, Azure
+-  Java, Angular, HTML, CSS, JavaScript, Azure
 
 __________________________________________________________________________________________________________________________________________
 ### Linguagens e Ferramentas que uso 🚀💻:
