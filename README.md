@@ -1,16 +1,15 @@
-<img align="right" width="350" height="300" src="https://github.com/sabinonatalia/sabinonatalia/blob/main/image_processing20200401-31608-jtqgjr.gif">
+<img align="right" width="380" height="400" src="https://github.com/sabinonatalia/sabinonatalia/blob/main/image_processing20200401-31608-jtqgjr.gif">
 
-# Seja bem-vinde ao meu pefil GitHub!
+# Hello!
 ## Prazer, Natália (❁´◡`❁) 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=open+sans&color=DE21AA&center=falso&vCenter=falso&lines=Desenvolvedora+Full+Stack+Jr;Focando+os+estudos+em+Java+e+Angular;Cursando+Ci%C3%AAncias+Humanas+pela+UFABC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23D236F7&center=falso&vCenter=falso&lines=Em+migra%C3%A7%C3%A3o+para+o+mundo+tech;+Estudando+desenvolvimento+fullstack;Cursando+Ci%C3%AAncias+Humanas+pela+UFABC)](https://git.io/typing-svg)
 
-### Sobre mim
-- 💻 Em migração de carreira para área de tecnologia 
-- 👩🏿‍💻 Desenvolvedora Java Full Stack Jr formada pela Generation Brasil 
-- 🎯 Interesse: Java, Spring Boot, Angular, HTML, CSS, JavaScript, NodeJs, Azure
+
+### 🎯 Interesse:
+-  Java, Spring Boot, Angular, HTML, CSS, JavaScript, NodeJs, Azure
 
 __________________________________________________________________________________________________________________________________________
-## Linguagens e Ferramentas que uso 🚀💻:
+### Linguagens e Ferramentas que uso 🚀💻:
 
 
 ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -25,14 +24,14 @@ ________________________________________________________________________________
 ![image](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 
 __________________________________________________________________________________________________________________________________________
-# ⚡ GitHub Stats:
+### ⚡ GitHub Stats:
 <p align="center">
 
 ![Natália GitHub stats](https://github-readme-stats.vercel.app/api?username=sabinonatalia&show_icons=true&theme=highcontrast)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabinonatalia&show_icons=true&theme=highcontrast)</p>
 
 __________________________________________________________________________________________________________________________________________
-## Onde me encontrar 😊:
+### Onde me encontrar 😊:
 <p align="center">
 
   <a href="https://www.linkedin.com/in/natalia-sabino/">
