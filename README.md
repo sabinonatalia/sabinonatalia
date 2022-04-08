@@ -1,12 +1,13 @@
 <img align="right" width="380" height="400" src="https://github.com/sabinonatalia/sabinonatalia/blob/main/image_processing20200401-31608-jtqgjr.gif">
 
 # Hello!
-## Prazer, Natália (❁´◡`❁) 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23D236F7&center=falso&vCenter=falso&lines=Em+migra%C3%A7%C3%A3o+para+o+mundo+tech;+Estudando+desenvolvimento+fullstack;Cursando+Ci%C3%AAncias+Humanas+pela+UFABC)](https://git.io/typing-svg)
+## Prazer, Natália 👩🏾‍💻
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&color=CD1C76&lines=Ci%C3%AAncia+de+Dados;Desenvolvimento;Ci%C3%AAncias+%26+Humanidades+)](https://git.io/typing-svg)
+
 
 
 ### 🎯 Interesse:
--  Java, Angular, HTML, CSS, JavaScript, Azure
+-  Java, Angular, HTML, CSS, JavaScript, Azure, Ciência de Dados
 
 __________________________________________________________________________________________________________________________________________
 ### Linguagens e Ferramentas que uso 🚀💻:
