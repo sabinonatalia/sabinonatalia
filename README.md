@@ -1,4 +1,4 @@
-<img align="right" width="380" height="400" src="https://github.com/sabinonatalia/sabinonatalia/blob/main/image_processing20200401-31608-jtqgjr.gif">
+
 
 # Hello!
 ## Prazer, Natália 👩🏾‍💻
