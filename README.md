@@ -4,8 +4,6 @@
 ## Prazer, Natália 👩🏾‍💻
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&color=CD1C76&lines=Ci%C3%AAncia+de+Dados;Desenvolvimento;Ci%C3%AAncias+%26+Humanidades+)](https://git.io/typing-svg)
 
-
-
 ### 🎯 Interesse:
 -  Java, Angular, HTML, CSS, JavaScript, Azure, Ciência de Dados
 
