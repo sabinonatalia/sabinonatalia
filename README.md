@@ -4,8 +4,15 @@
 ## Prazer, Natália 👩🏾‍💻
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&color=CD1C76&lines=Ci%C3%AAncia+de+Dados;Desenvolvimento;Ci%C3%AAncias+%26+Humanidades+)](https://git.io/typing-svg)
 
+__________________________________________________________________________________________________________________________________________
+
+### Meu estudos e projetos da área de dados você encontra aqui 📈: 
+<a href="https://github.com/nataliasabino">GitHub</a>
+
+__________________________________________________________________________________________________________________________________________
+
 ### 🎯 Interesse:
--  Java, Angular, HTML, CSS, JavaScript, Azure, Análise de Dados
+-  Java, Angular, HTML, CSS, JavaScript
 
 __________________________________________________________________________________________________________________________________________
 
